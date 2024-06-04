@@ -3,7 +3,7 @@ import React from 'react';
 function Article(props) {
   return (
     <>
-    <div className='article-card mb-5'>
+    <div className='mb-5'>
       <div className='card'>
         <div className='card-body card-custom'>
           <h5 className='card-title'>{props.title}</h5>
